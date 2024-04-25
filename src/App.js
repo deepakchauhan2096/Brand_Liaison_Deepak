@@ -11,6 +11,7 @@ import user from "./assets/icon/Group 3.svg";
 import Desk from "./assets/icon/Group.svg";
 import Chair from "./assets/icon/Group 4.svg";
 import Mic from "./assets/icon/Group 5.svg";
+//nav image files
 import Vector1 from "./assets/icon/Vector1.svg";
 import Vector from "./assets/icon/Vector.svg";
 import customer from "./assets/icon/Group 487.svg";
